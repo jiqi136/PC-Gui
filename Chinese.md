@@ -1,7 +1,7 @@
 
 ---
 
-# PC-Gui: 一款 MIT 开源的轻量级桌面 GUI 框架 🎉
+# PC-Gui: 为 AI 而生，原生支持类 Deepseek实时打字机流式输出的轻量桌面 GUI 框架！ 🎉
 
 [ [**English**](https://github.com/jiqi136/PC-Gui) ] | [ **中文版** ]
 
