@@ -61,7 +61,7 @@ I hope PC-Gui, this lightweight and efficient framework, can become a powerful t
 ---
 
 
-**The Only Requirement**: Include the original copyright and permission notice in your copy of the software or in substantial portions of it.
+
 
 ---
 
@@ -103,6 +103,7 @@ In simple terms, you can:
 -   ✅ **Modify and Distribute**: Modify the code and redistribute it under open-source or closed-source terms.
 -   ✅ **Private Use**: Use and modify the work in private settings.
 
+**The Only Requirement**: Include the original copyright and permission notice in your copy of the software or in substantial portions of it.
 ---
 
 ### Official License Text
