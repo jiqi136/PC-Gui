@@ -1,4 +1,4 @@
-# PC-Gui: An MIT-Licensed Lightweight Desktop GUI Framework 🎉
+# PC-Gui: A lightweight desktop GUI framework built for AI, natively supporting real-time typewriter streaming output like Gemini! 🎉
 
 [ **English** ] | [ [**中文版**](https://github.com/jiqi136/PC-Gui/blob/main/Chinese.md) ]
 
