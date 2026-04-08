@@ -1,11 +1,9 @@
 # PC-Gui: A lightweight desktop GUI framework built for AI, natively supporting real-time typewriter streaming output like Gemini! 🎉
 
-[ **English** ] | [ [**中文版**](https://github.com/jiqi136/PC-Gui/blob/main/Chinese.md) ]
-[远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
+[ **English** ] | [ [**中文版**](https://github.com/jiqi136/PC-Gui/blob/main/Chinese.md) ][远古洛书-无限数值幻方](https://github.com/jiqi136/Magic-square/blob/main/%E8%BF%9C%E5%8F%A4%E6%B4%9B%E4%B9%A6-%E6%97%A0%E9%99%90%E6%95%B0%E5%80%BC%E5%B9%BB%E6%96%B9-%E4%B8%AD%E6%96%87.md)
 [Infinite Numerical Magic Square](https://github.com/jiqi136/Magic-square)
 
 ---
-
 
 
 > 💡 **Core Philosophy: Rapid Development · Minimal Size · Native Performance · Empowering the Creation of Premium Tools Users Are Willing to Pay For**
@@ -65,7 +63,6 @@ I hope PC-Gui, this lightweight and efficient framework, can become a powerful t
 
 
 
-
 ---
 
 ## 📥 Demo Program & Open Source Code [Download Link]:
@@ -74,7 +71,7 @@ I hope PC-Gui, this lightweight and efficient framework, can become a powerful t
 
 
 [LanDisk Download https://wwbrl.lanzoum.com/b0fqa7hxe](https://wwbrl.lanzoum.com/b0fqa7hxe)  
-Password: `hc3y`
+Password: `1122`
 
 ### Go Language Source Code Build Instructions
 Building the project requires only the following two core files:
@@ -93,43 +90,27 @@ SHA256：317100e77d438f10c94663ab97fed47bd76e04b01a3350508980e87e9ef941d8
 ---
 ## Like this project? Don't forget to give it a ⭐! Your support is the motivation for continued maintenance.
 
+---
+##  Projects using desktop PC-GUI frameworks :
+
+[Ai-Assistant https://github.com/jiqi136/Ai-Assistant](https://github.com/jiqi136/Ai-Assistant) 
+
+[syntax-query https://github.com/jiqi136/syntax-query](https://github.com/jiqi136/syntax-query) 
+
+[English-study https://github.com/jiqi136/English-study](https://github.com/jiqi136/English-study) 
+
+[Magic-square https://github.com/jiqi136/Magic-square](https://github.com/jiqi136/Magic-square) 
 
 ---
 
 
-## 📜 MIT Open Source License
+## 📜 Apache 2.0 Open Source License
 
-This project is licensed under the **MIT License**. This means you have complete freedom to use the framework's source code.
+This project is licensed under the **Apache 2.0** License. This means you are completely free to use the framework's source code.
 
 In simple terms, you can:
 -   ✅ **Commercial Use**: Use the work and its derivatives for commercial purposes and sell them.
 -   ✅ **Modify and Distribute**: Modify the code and redistribute it under open-source or closed-source terms.
--   ✅ **Private Use**: Use and modify the work in private settings.
 
-**The Only Requirement**: Include the original copyright and permission notice in your copy of the software or in substantial portions of it.
+
 ---
-
-### Official License Text
-
-```text
-MIT License
-
-Copyright (c) [2026] [github.com/jiqi136]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
