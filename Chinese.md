@@ -94,45 +94,24 @@ SHA256：1c288811bbffe0cd39968e5d0045560271bad62e4ccbf7988e707fd1aaf98376
 ---
 ## 觉得这个项目不错？请别忘了给它点一个 ⭐！您的支持是持续维护的动力。
 
+---
+##  采用采用桌面 PC-GUI 框架的项目:
+
+[Ai助手 https://github.com/jiqi136/Ai-Assistant](https://github.com/jiqi136/Ai-Assistant) 
+[编程语言-语法查询 https://github.com/jiqi136/syntax-query](https://github.com/jiqi136/syntax-query) 
+[英语学习-逐字翻译 https://github.com/jiqi136/English-study](https://github.com/jiqi136/English-study) 
+[远古洛书-无限数值幻方 https://github.com/jiqi136/Magic-square](https://github.com/jiqi136/Magic-square) 
+
 
 ---
 
 
-## 📜 MIT 开源授权许可
+## 📜 Apache 2.0 开源授权许可
 
-本项目采用 **MIT 许可证**。这意味着您可以完全自由地使用框架源码。
+本项目采用 宽松型 **Apache 2.0 许可证**。这意味着您可以完全自由地使用框架源码。
 
 您可以：(通俗解释 )
 -   ✅ **商业使用**：允许将本作品及其衍生品用于商业目的，并进行销售。
 -   ✅ **修改分发**：允许修改代码，并以开源或闭源的形式重新分发。
--   ✅ **私人使用**：允许在私人场合使用和修改。
-
-**唯一要求**：在您的软件副本或重要部分中，包含原始的版权和许可声明。
 
 ---
-
-### 许可原文 (Official License Text)
-
-```text
-MIT License
-
-Copyright (c) [2026] [github.com/jiqi136]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
