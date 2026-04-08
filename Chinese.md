@@ -98,8 +98,11 @@ SHA256：1c288811bbffe0cd39968e5d0045560271bad62e4ccbf7988e707fd1aaf98376
 ##  采用采用桌面 PC-GUI 框架的项目:
 
 [Ai助手 https://github.com/jiqi136/Ai-Assistant](https://github.com/jiqi136/Ai-Assistant) 
+
 [编程语言-语法查询 https://github.com/jiqi136/syntax-query](https://github.com/jiqi136/syntax-query) 
+
 [英语学习-逐字翻译 https://github.com/jiqi136/English-study](https://github.com/jiqi136/English-study) 
+
 [远古洛书-无限数值幻方 https://github.com/jiqi136/Magic-square](https://github.com/jiqi136/Magic-square) 
 
 
